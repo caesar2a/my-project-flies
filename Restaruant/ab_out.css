@@ -1,0 +1,54 @@
+header{
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+    padding: 10%;
+}
+span{color: red;}
+
+.art{
+    font-size: 100%;
+    margin: 20px;
+    padding: 10px;
+     height: 50%;
+    color:white;
+}
+
+body{
+    background-color: rgb(113, 104, 104);
+
+
+}
+img{
+    display: block;
+    border-radius: 50%;
+    margin-left:auto;
+    margin-right:auto ;
+    padding: bottom 5px;;
+}
+
+ul{
+    list-style-type: none;
+    background-color: rgb(238, 238, 238);
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+
+li{
+    float: left;
+}
+ 
+li a{
+    display: block;
+    text-decoration: none;
+    padding: 14px 16px;
+    color: #000;
+}
+
+li a:hover{
+    background-color: #716b6b;
+
+}

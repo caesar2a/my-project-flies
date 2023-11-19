@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+li{
+    float: left;
+
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: blue;
+    padding: 20px 30px;
+    text-align: center;
+    }
+
+#get{
+
+    margin-left: 25%;
+    border:1px solid;
+    border-radius: 20px;
+    margin-top: 1%;
+}
+
+nav{
+    border-top:5px solid blue;
+    
+
+}
+i{
+    font-size: 15px;
+}
+
+li a:hover{
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-top:20px ;
+}

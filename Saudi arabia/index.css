@@ -1,0 +1,52 @@
+body {
+    background-color: chocolate;
+  }
+  .head1 {
+    font-family: "Times New Roman", Times, serif;
+    color: aliceblue;
+    padding-top: 40px;
+    float: left;
+  }
+
+  .s1 {
+    color: #000;
+  }
+  nav,
+  ul,
+  li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+    float: right;
+    border-radius: 0%f;
+  }
+
+  nav,
+  ul,
+  li a {
+    color: rgb(240, 255, 247);
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+  nav,
+  ul,
+  li,
+  a:hover {
+    color: black;
+    border: 2px solid transform;
+  }
+  .ec1 {
+    font-size: 25px;
+    float: right;
+    background-color: aliceblue;
+    border: 1px solid black;
+  }
+  .color {
+    text-align: center;
+  }
+
+  img {
+    float: right;
+    margin: 10px 10px;
+  }

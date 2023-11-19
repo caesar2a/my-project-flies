@@ -1,0 +1,31 @@
+body{
+    background-color:lightgreen;
+}
+h1{
+    text-align: center;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+    
+}
+
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.sp{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.art1{
+    border: 4px solid black;
+    background-color: azure;
+    padding: 10px;
+}

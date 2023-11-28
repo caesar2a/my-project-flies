@@ -2,6 +2,7 @@ ul{
     list-style-type: none;
     margin: 0%;
     padding: 0%;
+    overflow: hidden;
 
 }
 
@@ -34,6 +35,8 @@ i{
     font-size: 15px;
 }
 
+
+
 li a:hover{
     background-color: lightblue;
     border-radius: 20px;
@@ -42,4 +45,55 @@ li a:hover{
 h1{
     text-align: center;
     margin-top:20px ;
+}
+
+.he{
+   background-image:url("Screenshot 2023-11-18 101541.png");
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500%;
+    margin-top: 30px;
+
+}
+   
+.sp{
+    margin-left:5%; 
+    margin-top: 10%;
+    border: 2px solid;
+    border-radius:20% ;
+    font-size: 15px;
+    color: rgba(0, 0, 255, 0.477);
+     
+}
+
+h1{
+    margin-top: 10%;
+    margin-bottom: 30px;
+    color: blue;
+    font-size: 50px;
+}
+
+input{
+    margin-top:30px ;
+    margin-bottom: 10%;
+    color: blue;
+    border-radius:20px ;
+}
+
+button{
+    border-radius: 20px;
+
+}
+
+.clo1{
+    columns: 100px 2;
+    margin: 10px;
+    
+}
+
+.d1 ,.d2{
+    margin-left: 10px;
+    border-top: 1px solid;
+    
 }
